@@ -1,5 +1,8 @@
+
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ1cGY4MzdsOWJla2ZveXVvZDV6ZGNya2liN3ZsYXIwbGo4NnJhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%">
+
+<img src="./banner.png" width="100%" alt="Yash Jha — AI Engineering and Software Development"/>
+
 </div>
 
 ### Exploring AI Engineering & Software Development
