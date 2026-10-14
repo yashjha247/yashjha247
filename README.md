@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://in.pinterest.com/pin/89298005089889215/" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ1cGY4MzdsOWJla2ZveXVvZDV6ZGNya2liN3ZsYXIwbGo4NnJhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%">
 </div>
 
 ### Exploring AI Engineering & Software Development
