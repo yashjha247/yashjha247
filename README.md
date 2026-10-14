@@ -1,222 +1,125 @@
 
-## `01 / ABOUT ME`
+<div align="center">
 
-I'm a Computer Science Engineering student interested in **AI Engineering, agentic systems, and full-stack software development**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4338ca&height=180&section=header&text=Yash%20Jha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Exploring%20AI%20%26%20Software%20Engineering&descSize=14&descAlignY=60" width="100%"/>
 
-My experience so far includes backend development with Node.js, Express.js, TypeScript, and MongoDB; exploration of RAG-based applications; AI-assisted prototyping; and collaborative hackathon projects.
+### Building things, breaking them, and learning how they work.
 
-These experiences have introduced me to different parts of software development, from APIs and database interactions to LLM-powered applications and system simulation. They've also shown me the difference between getting a prototype working and understanding the engineering behind it.
+<a href="https://github.com/yashjha247"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a>
+<a href="https://www.linkedin.com/in/yash-jha-9652132ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
+<img src="https://komarev.com/ghpvc/?username=yashjha247&style=flat-square&color=6d28d9&label=PROFILE+VIEWS" />
 
-I'm now focused on closing that gap.
-
-I want to develop the ability to reason about software, understand how its components interact, make informed technical decisions, and build systems I can confidently test, debug, and modify.
-
-My interests are centred around two connected directions:
-
-- **AI Engineering:** Understanding LLM applications, retrieval-augmented generation, tool calling, agentic workflows, orchestration, and multi-agent architectures.
-- **Full-Stack Engineering:** Building applications across frontend, backend, APIs, databases, authentication, testing, and deployment.
-
-I'm still strengthening my programming fundamentals and practical engineering skills. I use AI-assisted development tools to accelerate implementation and explore unfamiliar technologies, while working toward greater independence in understanding and taking ownership of the code I build.
+</div>
 
 ---
 
-## `02 / TECHNOLOGIES & TOOLS`
+## About me
 
-My experience with these technologies varies. Some have been used in projects, while others have been explored during experimentation and learning.
+Hey! I'm Yash, a Computer Science Engineering student interested in **AI engineering, agentic systems, and full-stack development**.
 
-### Programming & Backend
-- Python
-- JavaScript / TypeScript
-- Node.js
-- Express.js
-- REST APIs
+I've explored backend development, RAG-based applications, and AI-assisted prototyping through personal projects and hackathons. These experiences got me curious about what happens behind the scenes—not just how to make something work, but how to understand, test, and improve it.
 
-### Databases & Data
-- MongoDB
-- Mongoose
-- ChromaDB
-- Embeddings and vector search concepts
+Currently, I'm focused on strengthening my programming fundamentals and learning to build software with a deeper understanding of the implementation.
 
-### AI & Application Development
-- LLM-powered applications
-- Retrieval-Augmented Generation (RAG)
-- Cohere API
-- Faster-Whisper
-- Streamlit
+## What I'm exploring
 
-### Simulation & 3D Exploration
-- Gazebo
-- Blender
+**AI Engineering**
+- LLM applications and Retrieval-Augmented Generation (RAG)
+- Agentic workflows, tool calling, and orchestration
+- Multi-agent architectures and system evaluation
 
-*This list reflects project exposure and exploration, not equal proficiency across every technology.*
+**Software Engineering**
+- Backend development, REST APIs, and databases
+- Full-stack application development
+- Testing, debugging, and system design
 
----
+## Tools I've worked with
 
-## `03 / AI ENGINEERING & AGENTIC SYSTEMS`
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
-I'm particularly interested in understanding how AI applications are designed beyond a single prompt or API call.
+<p>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI--assisted%20development-4338CA?style=flat-square"/>
+</p>
 
-My exploration of RAG-based applications has introduced me to concepts such as transcription, embeddings, vector databases, retrieval, and LLM-powered question answering.
+*My experience varies across these tools; I'm continuing to strengthen the fundamentals.*
 
-I want to build on that foundation by investigating how more complex AI systems are structured and evaluated.
+## Projects & experiences
 
-Areas of interest include:
+<details>
+<summary><b>Invoicer — Backend Learning Project</b></summary>
 
-- **LLM application architecture:** Connecting models, application logic, external services, and user interfaces.
-- **Retrieval-Augmented Generation:** Understanding document ingestion, chunking, embeddings, retrieval quality, and context construction.
-- **Tool calling:** Allowing models to interact with external functions and services through controlled interfaces.
-- **Agentic workflows:** Understanding multi-step execution, control flow, and when an agent is actually necessary.
-- **Orchestration and multi-agent systems:** Exploring coordination, shared state, task decomposition, and communication between components.
-- **Evaluation and reliability:** Testing system behaviour, handling failures, and understanding the limitations of model-generated outputs.
-
-My goal is not simply to use agent frameworks. I want to understand the underlying mechanisms, compare architectural approaches, and learn why particular designs work—or fail—in different situations.
-
----
-
-## `04 / FULL-STACK & SOFTWARE ENGINEERING`
-
-I also want to strengthen the software engineering foundations needed to build complete, maintainable applications.
-
-My backend learning project, Invoicer, introduced me to technologies and concepts including Express.js, TypeScript, MongoDB, Mongoose, authentication, request validation, and API testing.
-
-I want to revisit and deepen that experience while developing a broader understanding of application development.
-
-My learning direction includes:
-
-- **Programming fundamentals:** Functions, data structures, control flow, modules, and error handling.
-- **Backend development:** Routing, middleware, controllers, API design, validation, and authentication.
-- **Databases:** Data modelling, queries, indexes, consistency, and persistence.
-- **Frontend development:** Interfaces, client-server communication, and application state.
-- **Testing and debugging:** Reproducing failures, tracing execution, testing edge cases, and verifying fixes.
-- **System design:** Understanding component boundaries, architectural trade-offs, maintainability, and scalability.
-- **Deployment:** Learning how applications are configured, deployed, monitored, and operated.
-
-The objective is to understand how the pieces fit together—not just to connect technologies until an application appears to work.
-
----
-
-## `05 / SELECTED PROJECTS`
-
-### Invoicer — Backend Learning Project
-
-A backend project focused on invoice management and API development.
+A backend project exploring invoice management and REST API development.
 
 **Stack:** Node.js · Express.js · TypeScript · MongoDB · Mongoose
 
-**Concepts explored:**
-- REST API design and CRUD operations
-- Database schemas and data modelling
-- Authentication and request validation
-- API testing and backend request flows
+Explored CRUD operations, data modelling, authentication, validation, and API testing.
 
-**What I'm developing further:** The ability to explain the request lifecycle, trace data through the application, investigate failures, and modify backend behaviour independently.
+[Repository](https://github.com/yashjha247/Invoicer-)
 
-[View repository](https://github.com/yashjha247/Invoicer-)
+</details>
 
----
+<details>
+<summary><b>Study Buddy — RAG-Based Study Assistant</b></summary>
 
-### Study Buddy — RAG-Based Study Assistant
+A study assistant exploring how lecture content can be processed and used for question answering.
 
-A study-assistant application exploring how lecture content can be processed and used for question answering.
+**Technologies:** Python · Faster-Whisper · ChromaDB · Cohere · Streamlit
 
-**Technologies explored:** Python · Faster-Whisper · ChromaDB · Cohere · Streamlit
+Explored transcription, embeddings, vector search, and LLM-powered question answering.
 
-**Concepts explored:**
-- Audio transcription and text processing
-- Embeddings and vector search
-- Retrieval-augmented question answering
-- Connecting AI services to an application interface
+[Repository](https://github.com/yashjha247/Study_buddy)
 
-**What I'm developing further:** Understanding the complete retrieval pipeline, evaluating retrieved context, and investigating how each component affects the final response.
+</details>
 
-[View repository](https://github.com/yashjha247/Study_buddy)
+<details>
+<summary><b>Himalayan Last-Mile — Avinya 2026</b></summary>
 
----
+A team hackathon project exploring drone-delivery feasibility in high-altitude Himalayan environments.
 
-### Himalayan Last-Mile — Avinya 2026
-
-A collaborative hackathon project exploring drone-delivery feasibility in high-altitude Himalayan environments.
-
-**Tools explored:** Gazebo · Blender · AI-assisted coding tools
-
-**Problem space:**
-- Route feasibility under high-altitude flight constraints
-- Flight simulation and route validation
-- Emergency-landing considerations
-
-The project introduced me to simulation-oriented problem solving and rapid prototyping in a team environment. It also reinforced the importance of understanding and verifying AI-generated implementations.
+Explored flight simulation with Gazebo, 3D design with Blender, and AI-assisted prototyping.
 
 *Team project; contributions were shared.*
 
----
+</details>
 
-### Smart India Hackathon 2025
+<details>
+<summary><b>Smart India Hackathon 2025</b></summary>
 
-Participated in two problem statements involving a flood-related drone solution and a telemedicine application.
+Worked with a team on flood-related drone and telemedicine problem statements. Contributed to AI-assisted UI prototyping.
 
-The experience involved collaborative problem-solving, rapid prototyping, and presenting proposed solutions under time constraints. I contributed to the telemedicine application's user interface using AI-assisted development tools.
+**Milestone:** Selected in the college internal round for both problem statements.
 
-**Milestone:** College internal-round selection for both problem statements.
+</details>
 
----
+## A little about how I learn
 
-## `06 / HOW I LEARN AND BUILD`
+I don't want to just generate code and move on. I want to understand what I'm building.
 
-I want to approach unfamiliar technologies through a repeatable process that combines independent reasoning, targeted research, experimentation, and debugging.
+My approach is to start with what I know, research the fundamentals, make a hypothesis, experiment, debug, and explain what I learned.
 
-My approach:
+AI is part of my workflow—but developing my own engineering judgment is the goal.
 
-1. **Perception:** Write down what I currently think a concept means.
-2. **Orientation:** Research enough to identify its purpose and main components.
-3. **Hypothesis:** Predict how the components should interact.
-4. **Investigation:** Use documentation and AI to challenge my understanding.
-5. **Experiment:** Build a small implementation that tests a specific idea.
-6. **Debugging:** Investigate unexpected behaviour and verify fixes.
-7. **Reflection:** Explain what I learned and decide what to investigate next.
+## GitHub activity
 
-AI can help explain concepts, review approaches, generate code, and accelerate repetitive work. However, I want to remain responsible for understanding the implementation, testing its behaviour, and making the important engineering decisions.
+<div align="center">
 
-I don't need to master an entire subject before building something. I need to learn enough to make a meaningful attempt and deepen my understanding through practice.
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashjha247&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9" />
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha247&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
-## `07 / CURRENT FOCUS`
-
-```yaml
-learning:
-  - Programming fundamentals and problem-solving
-  - Backend development and database concepts
-  - LLM application architecture and RAG
-  - Agentic workflows and orchestration
-  - Testing, debugging, and system design
-
-building:
-  - Small experiments to test specific technical concepts
-  - Applications with understandable and testable implementations
-  - AI-powered systems grounded in software engineering fundamentals
-
-practising:
-  - Forming hypotheses before implementation
-  - Reading and modifying existing code
-  - Investigating failures instead of blindly applying fixes
-  - Explaining architectural decisions and trade-offs
-
-long_term_goal:
-  - Design, build, debug, and maintain software systems
-    with AI as a force multiplier, not a substitute
-    for engineering judgment
-```
+</div>
 
 ---
 
-## `08 / ENGINEERING PHILOSOPHY`
+<div align="center">
 
-> Build to understand. Test to verify. Debug to learn.
+**Always curious. Always learning. Building to understand.**
 
-I believe modern AI tools can accelerate software development, but generating code is only one part of engineering.
+<a href="https://www.linkedin.com/in/yash-jha-9652132ab/">Let's connect on LinkedIn</a>
 
-My goal is to become capable of understanding the systems I build, reasoning about their architecture, investigating failures, and improving their implementation.
-
-For me, progress means becoming better equipped to tackle the next problem—not simply producing another working prototype.
-
-**Build with AI. Understand the system. Own the engineering.**
+</div>
