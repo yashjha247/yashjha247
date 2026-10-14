@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Yash Jha — AI Engineering and Software Development"/>
+<img src="./Banner.png" width="100%" alt="Yash Jha — AI Engineering and Software Development"/>
 
 </div>
 
