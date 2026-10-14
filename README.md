@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=312e81&height=120&section=header&text=Yash%20Jha&fontSize=42&fontColor=ffffff" width="100%"/>
+<img src="./download(2).gif" width="100%" alt="Animated profile banner"/>
+
 
 ### Exploring AI Engineering & Software Development
 
