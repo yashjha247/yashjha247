@@ -1,8 +1,6 @@
-
 <div align="center">
-
-<img src="./download(2).gif" width="100%" alt="Animated profile banner"/>
-
+  <img src="https://in.pinterest.com/pin/89298005089889215/" width="100%" alt="Animated profile banner"/>
+</div>
 
 ### Exploring AI Engineering & Software Development
 
