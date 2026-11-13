@@ -1,91 +1,123 @@
-
 <div align="center">
 
-<img src="./Banner.png" width="80%" alt="Yash Jha — AI Engineering and Software Development"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F0954,45:240952,75:4B0082,100:9683EC&amp;height=260&amp;section=header&amp;text=Yash%20Jha&amp;fontSize=64&amp;fontColor=F1EAFE&amp;fontAlignY=37&amp;desc=Learning%20Software%20Development%20%26%20AI%20Engineering&amp;descSize=20&amp;descAlignY=59&amp;animation=twinkling" width="100%" alt="Yash Jha — Learning Software Development and AI Engineering" />
 
-</div>
-
-### Exploring AI Engineering & Software Development
-
-*Curious about how systems work. Driven to build and understand them.*
-
-<a href="https://github.com/yashjha247">GitHub</a> ·
-<a href="https://www.linkedin.com/in/yash-jha-9652132ab/">LinkedIn</a>
-
-</div>
-
----
-
-## About me
-
-I'm a Computer Science Engineering student interested in **AI engineering, agentic systems, and full-stack development**.
-
-I've explored backend development, RAG-based applications, and AI-assisted prototyping through projects and hackathons. Now, I want to go deeper—understanding how systems are designed, how their components work together, and how to build, test, and improve them.
-
-I'm particularly interested in experimenting with agentic AI architectures while strengthening the software engineering foundations needed to build reliable applications.
-
-I'm here to keep learning, building, and turning curiosity into practical engineering skills.
-
-## Areas of interest
-
-- **AI Engineering:** LLM applications, RAG, agentic workflows, and multi-agent systems
-- **Software Engineering:** Backend development, APIs, databases, and full-stack applications
-- **Engineering Fundamentals:** Testing, debugging, system design, and architectural trade-offs
-
-## Technologies I've explored
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=9683EC&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=55&amp;lines=Learning+by+building+and+debugging;Exploring+Python%2C+TypeScript+and+backend+development;Building+with+AI+and+learning+how+systems+work;Shadow+Portfolio+%7C+Churn+Predictor" width="100%" alt="Learning by building and debugging. Exploring Python, TypeScript, backend development, and AI engineering." />
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=yashjha247&amp;label=Profile%20views&amp;color=9683EC&amp;style=flat-square" alt="Yash Jha profile views" />
+  <a href="https://github.com/yashjha247?tab=followers"><img src="https://img.shields.io/github/followers/yashjha247?label=Followers&amp;style=flat-square&amp;color=9683EC&amp;labelColor=240952&amp;logo=github&amp;logoColor=F1EAFE" alt="Follow Yash Jha on GitHub" /></a>
 </p>
 
-## Selected work
+</div>
 
-<details>
-<summary><b>Invoicer — Backend Project</b></summary>
+## Who I Am
 
-Explored REST APIs, CRUD operations, database modelling, authentication, and validation.
+I'm a Computer Science Engineering student learning software development and AI engineering through projects. I'm interested in how applications work, how their components fit together, and how to test and improve them.
 
-**Stack:** Node.js · Express · TypeScript · MongoDB
+```typescript
+const yash = {
+  title: "CS Student | Learning Software Development & AI Engineering",
+  stack: {
+    languages: ["Python", "TypeScript"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"],
+    devTools: ["Git"],
+  },
+  launchedProjects: ["Churn_Predictor"],
+  featuredProjects: ["Shadow_Portfolio", "Churn_Predictor"],
+};
+```
 
-[Repository](https://github.com/yashjha247/Invoicer-)
+## Featured Projects
 
-</details>
+### Shadow Portfolio
 
-<details>
-<summary><b>Study Buddy — RAG Application</b></summary>
+An event-driven backend that turns GitHub commits into learning milestones using webhook processing, background workers, and an LLM.
 
-Explored audio transcription, embeddings, vector search, and LLM-powered question answering.
+<a href="https://github.com/yashjha247/Shadow_Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha247&amp;repo=Shadow_Portfolio&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;icon_color=E8CC8A&amp;border_color=9683EC&amp;border_radius=12" alt="Shadow Portfolio repository" />
+</a>
 
-**Technologies:** Python · Faster-Whisper · ChromaDB · Cohere · Streamlit
+| Layer | Technology |
+| --- | --- |
+| Backend | Node.js, Express |
+| Data and event processing | Supabase, PostgreSQL, background worker |
+| AI integration | OpenRouter-compatible LLM API |
+| Testing | Vitest |
 
-[Repository](https://github.com/yashjha247/Study_buddy)
+[Code](https://github.com/yashjha247/Shadow_Portfolio)
 
-</details>
+### Churn Predictor
 
-<details>
-<summary><b>Hackathons & Team Projects</b></summary>
+A customer churn prediction project that compares machine learning models and serves the selected XGBoost model through a Streamlit app.
 
-- **Avinya 2026:** Explored drone-delivery simulation and 3D design with a team.
-- **Smart India Hackathon 2025:** Participated in two problem statements selected for the college internal round.
-- **CIA Ideathon 2025:** Third place as part of a team.
+<a href="https://github.com/yashjha247/Churn_Predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha247&amp;repo=Churn_Predictor&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;icon_color=E8CC8A&amp;border_color=9683EC&amp;border_radius=12" alt="Churn Predictor repository" />
+</a>
 
-</details>
+| Layer | Technology |
+| --- | --- |
+| Language | Python |
+| Machine learning | XGBoost |
+| Application | Streamlit |
+| Hosting | Streamlit Cloud |
 
-## What I'm working toward
+[Live](https://churnxgboost.streamlit.app/) · [Code](https://github.com/yashjha247/Churn_Predictor)
 
-Understanding the fundamentals, experimenting with ideas, debugging what breaks, and learning to make better engineering decisions.
+## Tech Stack
 
-> Build to understand. Test to verify. Debug to learn.
+### Languages
 
----
+<img src="https://skillicons.dev/icons?i=python,ts&amp;theme=dark" alt="Python and TypeScript" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=dark" alt="Node.js and Express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" />
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" />
+
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yash-jha-9652132ab/">Let's connect</a>
+<a href="https://github.com/yashjha247">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashjha247&amp;show_icons=true&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;icon_color=E8CC8A&amp;border_color=9683EC&amp;border_radius=12&amp;hide_rank=true" width="54%" alt="Yash Jha's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha247&amp;layout=compact&amp;langs_count=6&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;border_color=9683EC&amp;border_radius=12" width="41%" alt="Most used languages in Yash Jha's repositories" />
+</a>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=yashjha247&amp;theme=nord&amp;background=240952&amp;border=9683EC&amp;stroke=9683EC&amp;ring=9683EC&amp;fire=E8CC8A&amp;currStreakNum=F1EAFE&amp;sideNums=F1EAFE&amp;currStreakLabel=9683EC&amp;sideLabels=9683EC&amp;dates=C4B5FD&amp;border_radius=12" width="75%" alt="Yash Jha's GitHub contribution streak" />
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashjha247&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;row=2&amp;margin-w=12&amp;margin-h=12" width="100%" alt="Yash Jha's GitHub trophies" />
+
+</div>
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjha247&amp;bg_color=240952&amp;color=9683EC&amp;line=9683EC&amp;point=E8CC8A&amp;area=true&amp;area_color=4B0082&amp;hide_border=true&amp;radius=12&amp;custom_title=Yash%20Jha%27s%20Contribution%20Activity" width="100%" alt="Yash Jha's contribution activity graph" />
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yash-jha-247yj/"><img src="https://img.shields.io/badge/LinkedIn-9683EC?style=for-the-badge&amp;logo=linkedin&amp;logoColor=240952" alt="Yash Jha on LinkedIn" /></a>
+<a href="https://x.com/jha_yash247"><img src="https://img.shields.io/badge/X-9683EC?style=for-the-badge&amp;logo=x&amp;logoColor=240952" alt="Yash Jha on X" /></a>
+<a href="mailto:yjha247@gmail.com"><img src="https://img.shields.io/badge/Email-9683EC?style=for-the-badge&amp;logo=gmail&amp;logoColor=240952" alt="Email Yash Jha" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F0954,45:240952,75:4B0082,100:9683EC&amp;height=130&amp;section=footer&amp;animation=twinkling" width="100%" alt="Indigo and lavender wave footer" />
 
 </div>
