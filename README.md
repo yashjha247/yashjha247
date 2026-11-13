@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F0954,45:240952,75:4B0082,100:9683EC&amp;height=260&amp;section=header&amp;text=Yash%20Jha&amp;fontSize=64&amp;fontColor=F1EAFE&amp;fontAlignY=37&amp;desc=Learning%20Software%20Development%20%26%20AI%20Engineering&amp;descSize=20&amp;descAlignY=59&amp;animation=twinkling" width="100%" alt="Yash Jha — Learning Software Development and AI Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F0954,45:240952,75:4B0082,100:9683EC&amp;height=260&amp;section=header&amp;text=Yash%20Jha&amp;fontSize=64&amp;fontColor=F1EAFE&amp;fontAlignY=37&amp;desc=Learning%20Development%20and%20AI%20Engineering&amp;descSize=20&amp;descAlignY=59&amp;animation=twinkling&amp;v=2" width="100%" alt="Yash Jha — Learning Software Development and AI Engineering" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=9683EC&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=55&amp;lines=Learning+by+building+and+debugging;Exploring+Python%2C+TypeScript+and+backend+development;Building+with+AI+and+learning+how+systems+work;Shadow+Portfolio+%7C+Churn+Predictor" width="100%" alt="Learning by building and debugging. Exploring Python, TypeScript, backend development, and AI engineering." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=9683EC&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=55&amp;lines=Learning+by+building+and+debugging;Exploring+Python%2C+TypeScript+and+backend+development;Building+with+AI+and+learning+how+systems+work;Shadow+Portfolio%3BInvoicer+and+Study+Buddy" width="100%" alt="Learning by building and debugging. Exploring Python, TypeScript, backend development, and AI engineering." />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yashjha247&amp;label=Profile%20views&amp;color=9683EC&amp;style=flat-square" alt="Yash Jha profile views" />
@@ -15,29 +15,13 @@
 
 I'm a Computer Science Engineering student learning software development and AI engineering through projects. I'm interested in how applications work, how their components fit together, and how to test and improve them.
 
-```typescript
-const yash = {
-  title: "CS Student | Learning Software Development & AI Engineering",
-  stack: {
-    languages: ["Python", "TypeScript"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB"],
-    devTools: ["Git"],
-  },
-  launchedProjects: ["Churn_Predictor"],
-  featuredProjects: ["Shadow_Portfolio", "Churn_Predictor"],
-};
-```
+I explore **Python, TypeScript, Node.js, Express, MongoDB, and Git** through hands-on projects. My interests include backend development, RAG applications, and agentic AI systems.
 
 ## Featured Projects
 
 ### Shadow Portfolio
 
 An event-driven backend that turns GitHub commits into learning milestones using webhook processing, background workers, and an LLM.
-
-<a href="https://github.com/yashjha247/Shadow_Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha247&amp;repo=Shadow_Portfolio&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;icon_color=E8CC8A&amp;border_color=9683EC&amp;border_radius=12" alt="Shadow Portfolio repository" />
-</a>
 
 | Layer | Technology |
 | --- | --- |
@@ -46,24 +30,34 @@ An event-driven backend that turns GitHub commits into learning milestones using
 | AI integration | OpenRouter-compatible LLM API |
 | Testing | Vitest |
 
-[Code](https://github.com/yashjha247/Shadow_Portfolio)
+[View Shadow Portfolio on GitHub](https://github.com/yashjha247/Shadow_Portfolio)
 
-### Churn Predictor
+### Invoicer
 
-A customer churn prediction project that compares machine learning models and serves the selected XGBoost model through a Streamlit app.
+An invoice management backend with authentication, invoice and client CRUD operations, validation, and error handling.
 
-<a href="https://github.com/yashjha247/Churn_Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha247&amp;repo=Churn_Predictor&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;icon_color=E8CC8A&amp;border_color=9683EC&amp;border_radius=12" alt="Churn Predictor repository" />
-</a>
+| Layer | Technology |
+| --- | --- |
+| Language | TypeScript |
+| Backend | Node.js, Express |
+| Database | MongoDB, Mongoose |
+| Authentication | JWT |
+
+[View Invoicer on GitHub](https://github.com/yashjha247/Invoicer-)
+
+### Study Buddy
+
+A RAG application that transcribes audio lectures and supports citation-backed questions and answers over the lecture content.
 
 | Layer | Technology |
 | --- | --- |
 | Language | Python |
-| Machine learning | XGBoost |
-| Application | Streamlit |
-| Hosting | Streamlit Cloud |
+| Interface | Streamlit |
+| Transcription | Faster-Whisper |
+| Vector database | ChromaDB |
+| AI and retrieval | Cohere |
 
-[Live](https://churnxgboost.streamlit.app/) · [Code](https://github.com/yashjha247/Churn_Predictor)
+[View Study Buddy on GitHub](https://github.com/yashjha247/Study_buddy)
 
 ## Tech Stack
 
@@ -88,8 +82,8 @@ A customer churn prediction project that compares machine learning models and se
 <div align="center">
 
 <a href="https://github.com/yashjha247">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashjha247&amp;show_icons=true&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;icon_color=E8CC8A&amp;border_color=9683EC&amp;border_radius=12&amp;hide_rank=true" width="54%" alt="Yash Jha's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha247&amp;layout=compact&amp;langs_count=6&amp;theme=nord&amp;bg_color=240952&amp;title_color=9683EC&amp;text_color=9683EC&amp;border_color=9683EC&amp;border_radius=12" width="41%" alt="Most used languages in Yash Jha's repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashjha247&amp;theme=midnight_purple" width="48%" alt="Yash Jha's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjha247&amp;theme=midnight_purple" width="48%" alt="Yash Jha's repositories grouped by primary language" />
 </a>
 
 <br /><br />
@@ -102,13 +96,13 @@ A customer churn prediction project that compares machine learning models and se
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashjha247&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;row=2&amp;margin-w=12&amp;margin-h=12" width="100%" alt="Yash Jha's GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=yashjha247&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;row=2&amp;margin-w=12&amp;margin-h=12" width="100%" alt="Yash Jha's GitHub trophies" />
 
 </div>
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjha247&amp;bg_color=240952&amp;color=9683EC&amp;line=9683EC&amp;point=E8CC8A&amp;area=true&amp;area_color=4B0082&amp;hide_border=true&amp;radius=12&amp;custom_title=Yash%20Jha%27s%20Contribution%20Activity" width="100%" alt="Yash Jha's contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjha247&amp;theme=midnight_purple" width="100%" alt="Yash Jha's contribution activity graph" />
 
 ## Connect
 
@@ -118,6 +112,6 @@ A customer churn prediction project that compares machine learning models and se
 <a href="https://x.com/jha_yash247"><img src="https://img.shields.io/badge/X-9683EC?style=for-the-badge&amp;logo=x&amp;logoColor=240952" alt="Yash Jha on X" /></a>
 <a href="mailto:yjha247@gmail.com"><img src="https://img.shields.io/badge/Email-9683EC?style=for-the-badge&amp;logo=gmail&amp;logoColor=240952" alt="Email Yash Jha" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F0954,45:240952,75:4B0082,100:9683EC&amp;height=130&amp;section=footer&amp;animation=twinkling" width="100%" alt="Indigo and lavender wave footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1F0954,45:240952,75:4B0082,100:9683EC&amp;height=130&amp;section=footer&amp;animation=twinkling&amp;v=2" width="100%" alt="Indigo and lavender wave footer" />
 
 </div>
